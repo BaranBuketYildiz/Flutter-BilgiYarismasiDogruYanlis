@@ -8,9 +8,10 @@ Bu projeyi çalıştırmak için Flutter'ın yüklü olması gerekmektedir. Flut
 
 ## Ekran Görüntüleri
 
-<img src="https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/raw/main/assets/ekran1.png" width="200">
-<img src="https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/raw/main/assets/2.png" width="200">
-<img src="https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/raw/main/assets/3.png" width="200">
+![ekran1](https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/assets/126967473/02d01c3e-9117-4916-a8e8-d909a4d467b0)
+
+![2](https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/assets/126967473/8c641235-5d73-4b79-a521-903638620d99)
+![3](https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/assets/126967473/a672f8c1-0f54-4d73-a528-c5f301f315c6)
 
 
 ### Kurulum
