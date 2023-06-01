@@ -7,10 +7,10 @@ Bu Flutter uygulaması, kullanıcılara doğru/yanlış sorularıyla bir bilgi y
 Bu projeyi çalıştırmak için Flutter'ın yüklü olması gerekmektedir. Flutter'ı [buradan](https://flutter.dev) indirebilir ve yükleyebilirsiniz.
 
 ## Ekran Görüntüleri
+![ekran1](https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/raw/main/assets/ekran1.png | width=200)
+![2](https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/raw/main/assets/2.png | width=200)
+![3](https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/raw/main/assets/3.png | width=200)
 
-(https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/blob/main/assets/screenshots/ekran1.png?raw=true | width=200)
-(https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/blob/main/assets/screenshots/2.png?raw=true | width=200)
-(https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/blob/main/assets/screenshots/3.png?raw=true | width=200)
 
 ### Kurulum
 
