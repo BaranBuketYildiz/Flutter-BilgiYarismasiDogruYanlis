@@ -7,6 +7,7 @@ Bu Flutter uygulaması, kullanıcılara doğru/yanlış sorularıyla bir bilgi y
 Bu projeyi çalıştırmak için Flutter'ın yüklü olması gerekmektedir. Flutter'ı [buradan](https://flutter.dev) indirebilir ve yükleyebilirsiniz.
 
 ## Ekran Görüntüleri
+<img src="https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/assets/126967473/02d01c3e-9117-4916-a8e8-d909a4d467b0" alt="" width="200">
 
 ![ekran1](https://github.com/BaranBuketYildiz/Flutter-BilgiYarismasiDogruYanlis/assets/126967473/02d01c3e-9117-4916-a8e8-d909a4d467b0)
 
